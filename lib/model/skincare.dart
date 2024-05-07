@@ -10,8 +10,8 @@ class SkinCare {
 
 List<SkinCare> listSkinCare = [
   SkinCare(binary: '01010011', name: 'Achness'),
-  SkinCare(binary: '10001110', name: 'ErhaFacialWash'),
-  SkinCare(binary: '00110001', name: 'SenkaPerfectWhip'),
-  SkinCare(binary: '01001001', name: 'EminalBighStuff'),
-  SkinCare(binary: '10001001', name: 'PondsCharcoal'),
+  SkinCare(binary: '10001110', name: 'Erha Facial Wash'),
+  SkinCare(binary: '00110001', name: 'Senka Perfect Whip'),
+  SkinCare(binary: '01001001', name: 'Eminal Bigh Stuff'),
+  SkinCare(binary: '10001001', name: 'Ponds Charcoal'),
 ];

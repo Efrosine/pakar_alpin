@@ -33,7 +33,7 @@ class MatchingBit {
     if (count == 0) {
       return 'Tidak ada rekomendasi';
     } else if (count == 1) {
-      return temp.first.name;
+      return 'Produk yang paling sesuai :\n- ${temp.first.name}';
     } else {
       return 'Ada beberapa rekomendasi :\n ${temp.map((e) => '- ${e.name}').join('\n')}';
     }
