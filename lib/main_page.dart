@@ -62,7 +62,7 @@ class _MainPageState extends State<MainPage> {
     var isNotLastPage = pageIndex < listQuestions.length - 1;
     return Scaffold(
       appBar: AppBar(
-        title: Text('Sistem Pakar Alpin', style: Theme.of(context).textTheme.headlineLarge),
+        title: Text('Sistem Pakar Skincare', style: Theme.of(context).textTheme.headlineLarge),
         centerTitle: true,
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
